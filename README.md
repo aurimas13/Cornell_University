@@ -1,31 +1,31 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/Harvard_Application/blob/main/Public/Harvard_logo_3.png"/>
+  <img height="222px" src="https://github.com/aurimas13/Cornell_University/blob/main/Public/Harvard_logo_3.png"/>
 </p>
-<h1 align="center"> Welcome to my Harvard  Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my Harvard Application story. </p>
+<h1 align="center"> Welcome to my Cornell Journey 🚀 </h1>
+<p align="center"> Hello and welcome to my Cornell Application story. </p>
 <p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
-  <a href="https://img.shields.io/github/last-commit/aurimas13/Harvard_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Harvard_Application?style=social"/></a>
-  <a href="https://img.shields.io/github/stars/aurimas13/Harvard_Application"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Harvard_Application?style=social"/></a>
+  <a href="https://img.shields.io/github/last-commit/aurimas13/Cornell_University"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Cornell_University?style=social"/></a>
+  <a href="https://img.shields.io/github/stars/aurimas13/Cornell_University"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Cornell_University?style=social"/></a>
   <!-- <a href="https://img.shields.io/github/forks/aurimas13/Harvard_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Harvard_Application?style=social"/> -->
-  <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
+  <a href="https://twitter.com/reksas13"><img alt="twitter" src="https://img.shields.io/twitter/follow/reksas13?style=social"/></a>
 
-**Hello and welcome!** I share my journey towards applying to Harvard University. This repository is a unique blend of my personal story, my ambitious research proposal for Harvard, and a showcase of my problem-solving skills through coding challenges.
+**Hello and welcome!** I share my journey towards applying to Cornell University. This repository is a unique blend of my personal story, my ambitious research proposal for Cornell, and a showcase of my problem-solving skills through coding challenges.
 
 ## 📘 Personal Story
 
-Dive into my [Personal Journey](https://github.com/aurimas13/Harvard_Application/blob/main/Personal_Story_Harvard.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
+Dive into my [Personal Journey](https://github.com/aurimas13/Cornell_University/blob/main/Personal_Statement_Cornell.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
 ## 🧬 Research Proposal
-Explore my [Research Proposal for Harvard](https://github.com/aurimas13/Harvard_Application/blob/main/Research_Proposal_Harvard.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal for Harvard](https://github.com/aurimas13/Cornell_University/blob/main/Research_Proposal_Harvard.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
 
-- 🎥 First video solutions of hard and easy diffulty problems showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Harvard_Application/tree/main/Video/1_Solution_Hard.mp4) and [here](https://github.com/aurimas13/Harvard_Application/blob/main/Video/2_Solution_Easy.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) and [here](https://www.loom.com/share/4fb7f19dc1d346b69312563ddcfefe3f?sid=c8ee5b4d-3363-4cd2-92d1-4646d00dcef5) while their actual solutions and the problem descriptions can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence) and [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Leaf-Similar%20Trees).
+- 🎥 First video solutions of hard and easy diffulty problems showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Cornell_University/tree/main/Video/1_Solution_Hard.mp4) and [here](https://github.com/aurimas13/Cornell_University/blob/main/Video/2_Solution_Easy.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) and [here](https://www.loom.com/share/4fb7f19dc1d346b69312563ddcfefe3f?sid=c8ee5b4d-3363-4cd2-92d1-4646d00dcef5) while their actual solutions and the problem descriptions can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence) and [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Leaf-Similar%20Trees).
 
 ## Grouped GitHub Projects/Repositories
 
@@ -79,4 +79,6 @@ This section contains my solutions to various programming exercises and problems
 ### 🌐 Personal and Miscellaneous
 This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
 
-- [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
+- [Aurimas/Alexandre's Profile](https://github.com/aurimas13/aurimas13)   
+
+
